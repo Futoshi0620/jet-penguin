@@ -42,7 +42,7 @@ module.exports = {
 	 *
 	 */
 	browserSync: {
-		proxy: 'iidaya.dev',
+		proxy: 'jet-penguin.dev',
 		server: {
 			baseDir: './'
 		},

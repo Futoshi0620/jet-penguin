@@ -1,0 +1,16 @@
+{
+    "name": "eoffice/iidaya-theme",
+    "type": "wordpress-theme",
+    "authors": [
+        {
+            "name": "Hiroshi Urabe",
+            "email": "mail@torounit.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "EOffice\\jet-penguin\\theme\\": "src"
+        }
+    }
+}
